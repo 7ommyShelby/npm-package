@@ -1,0 +1,12 @@
+{
+  "name": "calculatorprime",
+  "version": "1.0.2",
+  "description": "a simple calculator for simple calculations",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arya Kumar",
+  "license": "ISC"
+}
